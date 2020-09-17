@@ -1,0 +1,25 @@
+
+This  Project is developed by 'Carpediem' Team.
+
+Team Members are Student of Lambton College,Toronto.
+
+Program : <em>Mobile Application Design and Development</em>
+1.Mohit
+2.Sohel Pasha Mohammed
+
+Carpediem is Project on Online Quiz System developed on HTML, JavaScript and PHP.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
